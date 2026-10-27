@@ -7,7 +7,7 @@
     "zh-CN": "市场验收样例"
   },
   "description": "Visible test example for install and update acceptance. No external data access.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "netcatty",
   "license": "MIT",
   "engines": {

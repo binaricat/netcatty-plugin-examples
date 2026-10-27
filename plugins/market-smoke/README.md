@@ -1,6 +1,6 @@
 # Marketplace Acceptance Example
 
-Version 0.1.0. An intentionally visible install/update test example, not a production tool.
+Version 0.1.1. An intentionally visible install/update test example, not a production tool.
 
 The browser entry registers one command returning a fixed version string. The view is static HTML with no scripts or remote resources. Required permissions: commands, menus, views. No optional permissions; no network, terminal, filesystem, credentials, AI, database, native companion or background tasks.
 
